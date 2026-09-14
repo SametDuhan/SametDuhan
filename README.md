@@ -29,12 +29,7 @@ Third-year Computer Engineering student deeply interested in **Cyber Security**,
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SametDuhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametDuhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
