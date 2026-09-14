@@ -3,7 +3,7 @@
 Third-year Computer Engineering student deeply interested in **Cyber Security**, low-level programming, and network fundamentals.
 
 - 🔭 **What I'm doing:** Exploring network reconnaissance, penetration testing basics, and practical offensive security workflows.
-- 🌱 **Currently learning:** Cybersecurity fundamentals, socket & systems programming in **C**, and automation scripting with **Python**.
+- 🌱 **Currently learning:** Cybersecurity fundamentals, and automation scripting with **Python**.
 - ⚙️ **Environments:** Building isolated testing labs across **Kali Linux**, **Ubuntu**, and **Windows**.
 
 ---
